@@ -1,4 +1,6 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
+DEVELOPED BY: VEERARAGAVAN V
+REG NO: 212223230237
 # Algorithm or Steps Involved:
 <ol>
   <li>Define the initial state</li>
