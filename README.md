@@ -50,6 +50,7 @@ print(plan)
 <h3>You Can use any of the searching Strategies for planning and executing a sequence of actions.<br> You can also look in to the Code given in the Repository.</h3>
 
 # PROGRAM
+```
 def is_goal_state(current_state, goal_state):
     return current_state == goal_state
 
@@ -116,6 +117,7 @@ actions = {
 
 plan = find_plan(initial_state, goal_state, actions)
 print(plan)
+```
 '''
 # RESULT
 Therefore,Implementation of Classical Planning Algorithm is implemetated successfully.
